@@ -1,1 +1,1 @@
-This an under development feature using extreme programming
+This an under development feature using pair programming but with extreme programming concepts.
